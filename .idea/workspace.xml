@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="463c56c9-ecff-4c09-bfb1-6ec06366cb42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/loganalyser/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loganalyser/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loganalyser/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loganalyser/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loganalyser/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loganalyser/src/main/java/org/example/FileAnalyser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loganalyser/src/main/java/org/example/LogEntry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loganalyser/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loganalyser/src/main/resources/app.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loganalyser/src/main/java/org/example/AbstractTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loganalyser/src/main/java/org/example/FileAnalyser.java" beforeDir="false" afterPath="$PROJECT_DIR$/loganalyser/src/main/java/org/example/LogFileReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loganalyser/src/main/java/org/example/LogEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/loganalyser/src/main/java/org/example/LogEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loganalyser/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/loganalyser/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loganalyser/src/main/resources/app.log" beforeDir="false" afterPath="$PROJECT_DIR$/loganalyser/src/main/resources/app.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +41,7 @@
     "Maven.Debbug.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
@@ -123,5 +121,27 @@
       <updated>1759606367922</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/loganalyser/src/main/java/org/example/LogFileReader.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
